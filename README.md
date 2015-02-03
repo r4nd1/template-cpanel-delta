@@ -1,5 +1,5 @@
 # Delta
-<img src="https://raw.github.com/r4nd1/templates-cpanel-delta/master/screenshot.png" width="900">
+<img src="https://raw.github.com/r4nd1/template-cpanel-delta/master/screenshot.png" width="900">
 
 ## Uploader
 * Name: Randy Riolis
